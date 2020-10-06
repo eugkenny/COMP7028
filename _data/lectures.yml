@@ -3,7 +3,22 @@
 #  dirname: untitled-lecture
 #  tldr: "This is just a sample .rmd file to illustrate the use of the lectures.yml file."
 
-- title: "Week 1: Intro"
-  filename: introduction
-  dirname: untitled-lecture
-  tldr: "Once more with feeling."
+- title: "Lecture 1: Graphs"
+  filename: Algs - Lecture 01 - Graph Theory.pdf
+  dirname: lectures
+  tldr: "Basic concept of graphs, Graph representation"
+
+- title: "Lecture 2: Graph Search"
+  filename: Algs - Lecture 02 - Graphs - Searching.pdf
+  dirname: lectures
+  tldr: "Breadth First Search, Depth First Search"
+
+- title: "Lecture 3: Minimum Spanning Trees"
+  filename: Algs - Lecture 03 - Graphs - Minimum Spanning Trees.pdf
+  dirname: lectures
+  tldr: "Prim's Algorithm, Kruskal's Algorithm"
+
+- title: "Lecture 4: Shortest Paths"
+  filename: Algs - Lecture 04 - Graphs - Shortest Paths.pdf
+  dirname: lectures
+  tldr: "Dijkstra's Algorithm"
