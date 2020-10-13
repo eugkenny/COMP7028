@@ -22,3 +22,8 @@
   filename: Algs - Lecture 04 - Graphs - Shortest Paths.pdf
   dirname: lectures
   tldr: "Dijkstra's Algorithm"
+
+- title: "Lecture 5: Network Flows"
+  filename: Algs - Lecture 05 - Graphs - Maximum Flow.pdf
+  dirname: lectures
+  tldr: "Maxflow, mincut, Ford-Fulkerson Algorithm"
