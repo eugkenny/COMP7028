@@ -27,3 +27,13 @@
   filename: Algs - Lecture 05 - Graphs - Maximum Flow.pdf
   dirname: lectures
   tldr: "Maxflow, mincut, Ford-Fulkerson Algorithm"
+
+- title: "Lecture 6: Reductions"
+  filename: Algs - Lecture 06a - Reductions.pdf
+  dirname: lectures
+  tldr: "Reductions, Lower bounds, Classifying problems"
+
+- title: "Lecture 7: Linear Programming"
+  filename: Algs - Lecture 06b - Linear Programming.pdf
+  dirname: lectures
+  tldr: "Simplex Algorithm, reductions"
