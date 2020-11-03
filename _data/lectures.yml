@@ -37,3 +37,8 @@
   filename: Algs - Lecture 06b - Linear Programming.pdf
   dirname: lectures
   tldr: "Simplex Algorithm, reductions"
+
+- title: "Lecture 8: Intractability"
+  filename: Algs - Lecture 07 - Intractability.pdf
+  dirname: lectures
+  tldr: "Intractability, search problems, P vs NP, NP-completeness, dealing with intractability"
