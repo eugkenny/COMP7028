@@ -42,3 +42,9 @@
   filename: Algs - Lecture 07 - Intractability.pdf
   dirname: lectures
   tldr: "Intractability, search problems, P vs NP, NP-completeness, dealing with intractability"
+
+- title: "Lecture 9: Introduction to Artificial Intelligence"
+  filename: AI - Lecture 01 - Introduction.pdf
+  dirname: lectures
+  tldr: "What is AI?"
+
