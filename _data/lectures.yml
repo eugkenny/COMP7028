@@ -48,3 +48,9 @@
   dirname: lectures
   tldr: "What is AI?"
 
+- title: "Lecture 10: Problem Solving & Search 1"
+  filename: AI - Lecture 02 - Problem Solving & Search 1.pdf
+  dirname: lectures
+  tldr: "Search problems, state space, uniformed search"
+
+
