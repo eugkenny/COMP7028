@@ -53,4 +53,24 @@
   dirname: lectures
   tldr: "Search problems, state space, uniformed search"
 
+- title: "Lecture 11: Problem Solving & Search 2"
+  filename: AI - Lecture 03 - Problem Solving & Search 2.pdf
+  dirname: lectures
+  tldr: "Informed search, A*"
+
+- title: "Lecture 12: Local Search"
+  filename: AI - Lecture 04 - Local Search.pdf
+  dirname: lectures
+  tldr: "Local search problems, hill-climbing, simulated annealing, genetic algorithms"
+
+- title: "Lecture 13: Propositional Calculus 1"
+  filename: AI - Lecture 05 - Propositional Calculus 1.pdf
+  dirname: lectures
+  tldr: "Propositions and models, propositional syntax & semantics, entailment, inference"
+
+- title: "Lecture 14: Propositional Calculus 2"
+  filename: AI - Lecture 06 - Propositional Calculus 2.pdf
+  dirname: lectures
+  tldr: "Proof systems, resolution, proof by contradiction"
+
 
