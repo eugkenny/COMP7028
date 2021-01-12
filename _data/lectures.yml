@@ -72,3 +72,23 @@
   filename: AI - Lecture 06 - Propositional Calculus 2.pdf
   dirname: lectures
   tldr: "Proof systems, resolution, proof by contradiction"
+
+- title: "Lecture 15: Predicate Calculus"
+  filename: AI - Lecture 07 - Predicate Calculus.pdf
+  dirname: lectures
+  tldr: "Limitations of propositional calculus, resolution"
+
+- title: "Lecture 16: Expert Systems"
+  filename: AI - Lecture 08 - Expert Systems.pdf
+  dirname: lectures
+  tldr: "Knowledge representation, reasoning, inference"
+
+- title: "Lecture 17: Reasoning about Actions"
+  filename: AI - Lecture 09 - Reasoning about Actions.pdf
+  dirname: lectures
+  tldr: "Situation calculus, Blocks world, frame problem"
+
+- title: "Lecture 18: Reasoning about Actions 2"
+  filename: AI - Lecture 10 - Reasoning about Actions 2.pdf
+  dirname: lectures
+  tldr: "STRIPS planning, regression planning"
