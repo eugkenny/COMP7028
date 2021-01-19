@@ -8,12 +8,12 @@
 #  dirname: assignments
 #  tldr: "fuhqwuhfuwquh"
 
-- title: "Programming Assignment 1"
+- title: "Programming Assignment 1 - Dijkstra's Algorithm"
   filename: Assignment 1 - Dijkstra's Algorithm.pdf
   dirname: assignments
   tldr: "Dijkstra's Algorithm"
 
-- title: "Programming Assignment 2"
+- title: "Programming Assignment 2 - Eight Puzzle"
   filename: Assignment 2 - Search.pdf
   dirname: assignments
   tldr: "Eight Puzzle"
@@ -22,3 +22,8 @@
   filename: EightPuzzle.zip
   dirname: assignments
   tldr: "Eight Puzzle"
+
+- title: "Assignment 3 - Research Report"
+  filename: Assignment 3 - Research Report.pdf
+  dirname: assignments
+  tldr: "Research Report"

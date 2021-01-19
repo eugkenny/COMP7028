@@ -92,3 +92,18 @@
   filename: AI - Lecture 10 - Reasoning about Actions 2.pdf
   dirname: lectures
   tldr: "STRIPS planning, regression planning"
+
+- title: "Lecture 19: Machine Learning"
+  filename: AI - Lecture 13 - Learning.pdf
+  dirname: lectures
+  tldr: "Kinds of learning"
+
+- title: "Lecture 20: Decision Tree Learning"
+  filename: AI - Lecture 14 - Decision Trees.pdf
+  dirname: lectures
+  tldr: "Classification and regression"
+
+- title: "Lecture 21: Neural Networks"
+  filename: AI - Lecture 15 - Neural Networks.pdf
+  dirname: lectures
+  tldr: "Units, links and activation functions, network structures"
